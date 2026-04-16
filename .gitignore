@@ -1,3 +1,5 @@
 .ipynp_checkpoints/ 
 .ipynb_checkpoints/ 
 MSR_Evaluation/MSR_data_filtered.csv 
+MSR_Evaluation/MSR_data_filtered.csv 
+.env 
